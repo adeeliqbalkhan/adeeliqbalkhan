@@ -11,7 +11,7 @@ I mainly work with **React Native, React, TypeScript, Node.js, REST APIs, and AI
 - Working with **React Native, Node.js, TypeScript, and Python**
 - Learning more about **cloud, system design, and scalable architecture**
 
-### 🛠️ Tools I use
+### 💻 Tech Stack
 **Frontend:** React, React Native, Next.js, TypeScript  
 **Backend:** Node.js, Express, NestJS, REST APIs  
 **Database:** MongoDB, PostgreSQL  
