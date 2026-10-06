@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Adeel Iqbal 👋
 
-<!--
-**adeeliqbalkhan/adeeliqbalkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+I'm a **Full-Stack & Mobile Software Engineer** passionate about building real-world products and solving practical problems with technology.
 
-Here are some ideas to get you started:
+I work mainly with **React Native, React, TypeScript, Node.js, REST APIs, and AI-powered applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I currently working on?
+- Building **full-stack and mobile applications**
+- Exploring **AI, RAG, and Agentic AI**
+- Working with **React Native, Node.js, TypeScript, and Python**
+- Improving my skills in **cloud, system design, and scalable application architecture**
+
+### 🛠️ Tools I use
+**Frontend:** React, React Native, Next.js, TypeScript  
+**Backend:** Node.js, Express, NestJS, Django,  REST APIs  
+**Database:** MongoDB, PostgreSQL  
+**Cloud:** AWS, Docker  
+**AI:** RAG, LLMs, AI APIs, Agentic AI  
+**Tools:** Git, GitHub, Postman, Cursor, Antigravity
+
+### 🤖 How AI helps me move faster
+AI is part of my everyday development workflow. I use tools like **Cursor and Antigravity** to speed up development, troubleshoot issues, explore solutions, write repetitive code, and learn new technologies.
+
+I don't just accept AI-generated code — I **review, test, improve, and validate** it before using it in real projects.
+
+### 📫 How to reach me
+- **LinkedIn:** https://www.linkedin.com/in/adeel-iqbal-khan/
+- **Portfolio:** https://adeel-portfolio-nu.vercel.app/
+
+---
+
+> Building, learning, and improving — one product at a time. 🚀
